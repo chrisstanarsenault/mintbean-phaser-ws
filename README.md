@@ -1,6 +1,6 @@
 # Mintbean's PhaserJS Template
 
-## !Work in progress!
+## !Work in progress!!!
 
 This is currently being developed. Please report any bugs in the issues tab!
 
